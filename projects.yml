@@ -1,0 +1,31 @@
+- name: phase2-bn254
+  link: https://github.com/kobigurk/phase2-bn254
+  description: Phase 2 trusted setup on BN254, based on Zcash phase 2 and Matter Labs powersoftau repostories.
+- name: Semaphore
+  link: https://github.com/kobigurk/semaphore/
+  description: Zero-knowledge signaling layer on Ethereum.
+- name: ZKP in WebAssembly
+  link: https://github.com/kobigurk/wasm_proof
+  description: Exploring working with zkSNARKs in WebAssembly, online version available on https://zkwasm.kobi.one.
+- name: privacypass-rs
+  link: https://github.com/kobigurk/privacypass-rs
+  description: A fully-compatible implementation of Privacy Pass in Rust, as described in the blog post - https://kobigurk/2019/01/05/exploring-privacypass.html.
+- name: Sapling address tools
+  link: https://sapling.kobi.one/
+  description: Zcash, since Sapling, supports the concept of diversified addresses. These are addresses derived from the same secret key, and are unlinkable among each other. The official Zcash client supports these addresses, but cannot generate them currently. This tool bridges this gap and can generate multiple addresses for the same key.
+- name: EtherListen
+  link: http://etherlisten.com
+  description: Real-time transaction visualizer for ethereum.
+- name: EtherATM
+  link: https://github.com/ether-camp/ether-atm
+  description: The first Ethereum ATM.
+- name: preimage-bitcoin-lib
+  description: Node.JS implementation of Zero-Knowledge Contingent Payment.
+  link: https://github.com/kobigurk/preimage-bitcoin-lib
+- name: Hurwitz Surfaces
+  description: Quaternion models for Hurwitz surfaces, under Prof. Michael Katz.
+  link: http://u.math.biu.ac.il/~katzmik/sgtdirectory/gurkan.html
+- name: War on Ether (inactive)
+  description: Blockchain-based competitive game, similar to Core Wars.
+- name: TheDAOWisdom (inactive)
+  description: TheDAO price ticker from different exchanges.
